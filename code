@@ -14,8 +14,8 @@ const char* ssid = "your_wifi_ssid";
 const char* password = "your_wifi_password";
 
 // Define ThingSpeak credentials
-const long channelID = your_channel_id;
-const char* apiKey = "your_write_api_key";
+const long channelID = 2098549;
+const char* apiKey = "T5WFDLDGAKTVZEBE";
 WiFiClient client;
 
 void setup() {
